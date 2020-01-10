@@ -1185,8 +1185,6 @@ button {
 
 /*=================== blog banner start ====================*/
 .blog-banner {
-  padding-left: 0.5em;
-  padding-right: 0.5em;
   position: relative; }
   .blog-banner h4, .blog-banner h1, .blog-banner a {
     text-transform: uppercase;
